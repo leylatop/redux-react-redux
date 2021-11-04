@@ -10,7 +10,6 @@ let reducers = {
 
 // // 本质是个reducer函数
 // reducers = {
-
 //     counter1: function (state, action) { },
 //     counter2: function (state, action) { }
 // }
